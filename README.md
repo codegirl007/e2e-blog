@@ -2,7 +2,7 @@
 
 # Single-user Blogging Engine based on Applifting API
 
-
+|   |   |
 | ------ | ------ |
 | Created by | Jana Koutníková |
 | Main Technologies | Cypress, Cucumber Preprocessor |
